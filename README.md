@@ -7,6 +7,16 @@
 
 各種ライブラリは随時インクルードしてください。
 
+## 使用した機器
+### Alexa第三世代
+### ESP-WROOM02
+### 赤外線受信機
+### 赤外線送信LED
+### ブレッドボード
+### ジャンパ線3本
+### USBケーブル
+
+
 ## 手順
 ### １．ArduinoIDEを起動
 ![arduino_start](https://user-images.githubusercontent.com/55695847/74086018-5184f400-4ac2-11ea-83ca-975005b63a1b.jpeg)
